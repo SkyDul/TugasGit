@@ -129,4 +129,5 @@ for lokasi_key, lokasi_data in data_panen.items():
         print(f"  Status: ✓ KONDISI BAIK")
 
 print("="*60)
-print("commit kedua")
+print("Perubahan pada branch Baru")
+print("perubahan")
